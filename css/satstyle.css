@@ -1,0 +1,47 @@
+#topHeader {
+    border-bottom: 1px solid #ebebeb;
+    background-color: black;
+    padding: 0;
+    }
+#topHeader a {
+    color: white;
+    font-weight: 400;
+    font-size: .9rem;
+    }
+
+#topHeader h5 {
+        color: white;
+        font-weight: 400;
+        font-size: .9rem;
+        text-align: right;
+        }
+        .container-fluid {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+        .navbar-dark {
+            background-color:white;
+            color: black;
+       }
+       .navbar-nav li a{
+           font-size: .9rem;
+           font-weight: 600;
+       }
+       section-services .service-item .service-content {
+        text-align: center;
+        /* overflow: auto; */
+    }
+   .form-section a{
+       color: #ffa801
+       font-weight: 1000;
+
+   } 
+   .form-section p {
+       font-weight: 600;
+   }
+    footer {
+        background-color: #34ace0;
+        color: navy;
+        font-weight: 500;
+    }
